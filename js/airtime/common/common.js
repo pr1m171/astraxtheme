@@ -161,6 +161,3 @@ function removeSuccessMsg() {
     
     $status.fadeOut("slow", function(){$status.empty()});
 }
-
-$("#locale").css("display","none");
-$("#locale-label").css("display","none");
