@@ -163,3 +163,4 @@ function removeSuccessMsg() {
 }
 
 $("#locale").css("display","none");
+$("#locale-label").css("display","none");
